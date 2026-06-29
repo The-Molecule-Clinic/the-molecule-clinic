@@ -16,6 +16,8 @@ The Molecule Clinic operates strictly as a specialized cloud-based computational
 ## ⚡ The Maitotoxin Benchmark (Maitotoxin-Level Complexity)
 * **The Challenge:** Maitotoxin ($C_{164}H_{256}Na_{2}O_{68}S_{2}$) is the largest and most complex non-biopolymer structure known, featuring 32 fused oxacyclic rings—a long-standing dead-end for standard simulation software.
 * **Our Result:** Our core successfully computes the complete, stable, production-ready 3D Cartesian XYZ matrix of Maitotoxin within minutes, ensuring perfect stereochemical alignment without black boxes.
+* <img width="785" height="774" alt="Изображение" src="https://github.com/user-attachments/assets/c74a447c-b61a-4899-9c2b-1a12d1a62459" />
+
 
 ---
 
